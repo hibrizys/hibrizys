@@ -112,7 +112,7 @@
 ```dart
 class About extends Me { 
   const myTools = {  
-    "Operating Systems" : { "Windows", "Linux (Ubuntu, CentOS, Kali Linux))" },
+    "Operating Systems" : { "Windows", "Linux(Ubuntu, CentOS, Kali Linux)" },
     "Project Management" : { "Microsoft Word", "Microsoft Excel", "Notion", "Trello" },
     "Cloud Platforms" : { "Google Cloud Platform", "AWS Cloud Platform", "Nutanix Cloud Platform" },
     "Frontend Development" : { "HTML", "CSS", "Javascript", "Vuejs" },
